@@ -1,0 +1,38 @@
+ --- Argumentieren ---
+ 
+ Argumentationskette: 
+	besteht aus 3 Bausteinen 
+	
+			[T] 			+	[A] 			+	[B] 			=>	[F]
+			These 				Argument 			Beweise 			Folgerung
+			Behauptung 			Begründung 			Belge 				Zusammenfassung 
+			Aussage 			Pro und Kontra 		Beispiele
+			Meinung 
+			Standpunkt 
+			
+			
+			
+
+	Argumentationskreis:
+	* 	=>	[T] 			+	[A] 			+	[B] 			=>	[F]			=>	*
+			These 				Argument 			Beweise 			Folgerung
+			Behauptung 			Begründung 			Belge 				Zusammenfassung 
+			Aussage 			Pro und Kontra 		Beispiele
+			Meinung 
+			Standpunkt 
+	
+	
+	
+	
+	
+[T]		Rauchen ist gesundheitsgefährdent,
+[A]		weil eine Zigarette über 40 krebserregende Stoffe enthält, 
+[B]		z. B. Teer, Nikotin und Blausäure 
+
+
+
+Ein guter Text besteht aus Einleitung, Hauptteil und Schluss 
+
+
+
+
