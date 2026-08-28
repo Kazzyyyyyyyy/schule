@@ -1,0 +1,15 @@
+
+
+Werkstoffe in der Elektrotechnik sind **Materialien**, die aufgrund ihre **elektrischen, magnetischen, thermischen und mechanischen** Eigenschaften für elektrische Geräte und Anlagen verwendet werden.
+
+Die Werkstoffe der Elektrotechnik kann man nach Ihrer Verwendung einteilen
+
+**Leiterwerkstoffe** leiten elektrischen Strom sehr gut, z.B. Kupfer und Aluminium in Kabel und Leitung 
+
+**Kabel ist robust, stark isoliert und für eine feste Verlegung im Freien gedacht**
+**Leitung ist flexibel, und meist geschützt im Innenbereich oder an Geräten**
+
+
+-----
+Wofür sind die Farben in einem Stromkabel von einem haus 
+
