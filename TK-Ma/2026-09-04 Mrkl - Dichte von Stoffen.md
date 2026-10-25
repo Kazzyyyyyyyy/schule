@@ -30,16 +30,3 @@ $2300\frac{\text{Kg}}{m^3}$
 
 **b)** $250dm^3 = \frac{2300\text{Kg}/dm^3}{4}=575\text{Kg}$
 
-
-
-
-
-
-
-
-
-
-
-
-### Schwächen 
-Formeln umstellen 

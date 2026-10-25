@@ -18,7 +18,7 @@
 
 
 
-
+#### Weitere Pol-Bezeichnungen 
 Plus Pol: $L$ 
 Minus Pol: $N$ 
 
