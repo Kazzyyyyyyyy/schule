@@ -6,3 +6,6 @@ Fläche: Wand neben Tafel
 Aussagende Bilder an der Wand
 
 Kein Rassismus: Hände die sich gegenseitig halten 
+kein mobbing: lehrer der leute beim mobben stoppt 
+im Unterricht ruhig sein 
+
