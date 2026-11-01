@@ -1,23 +1,26 @@
 
-### Wochenplan 26.10.-30.10.2026:
+### Wochenplan 02.11.-06.11.2026:
 
 #### Montag:
-**PraxE (Gs) Test**: 5 Sicherheitsregeln
-**Physik Test**: Diagramme, Geschwindigkeit und Entfernung 
+**Physik Test** 
+**Physik Berichtigung letzter Test für gute Note** 
+**Fahrschein mitbringen wegen BIZ** 
 
 
 #### Dienstag:
-**Gruppe 1 Test Löten**: (sagt Yousif, wird mir logisch nicht angezeigt)
+**Englisch LK**
+**PraxM (Pd) LK** 
+**TK-M (Mor) LK** 
 
 
 #### Mittwoch:
-**Wirtschaftslehre Test**: Jugendarbeitsschutzgesetz
+**WL HA Korrektur** 
 
 
 #### Freitag: 
-**Ma-TK Hausaufgabe**: AB 02.10 fertig machen
-
-
+**Deutsch HA** 
+**TeKo-M LK** 
+**TeKo-M HA** 
 
 
 #### Mehr Infos zu allen Tests und Hausaufgaben findet ihr im Ordner "(Events)"
