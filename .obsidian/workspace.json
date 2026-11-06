@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "427c830b4753ab19",
+        "id": "14c09a796edac695",
         "type": "tabs",
         "children": [
           {
-            "id": "fad1355c4ec66401",
+            "id": "b7c0299b3f27dc89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wochenplan.md",
+                "file": "TK-Ma/2026-10-30 Mrkl - Extraaufgaben Längenausdehnung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wochenplan"
+              "title": "2026-10-30 Mrkl - Extraaufgaben Längenausdehnung"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "bc203ea5b90979f8",
@@ -188,35 +189,35 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "fad1355c4ec66401",
+  "active": "b7c0299b3f27dc89",
   "lastOpenFiles": [
-    "(Events)/Unbenannt.md",
     "Wochenplan.md",
+    "TK-Ma/2026-10-30 Mrkl - Extraaufgaben Längenausdehnung.md",
+    "(Events)/2026-11-27 TK-Ma LK Mrkl.md",
+    "Eth/2026-11-05 Wo - Normen.md",
+    "TK-E/2026-11-05 Mor - Leitwert.md",
+    "De/2026-11-05 Wo - Übung oder so ka.md",
+    "De/2026-10-01 Wo - Tempusformen des Verbs.md",
+    "De/2026-09-18 Wo - Pro und Kontra Abschluss.md",
+    "De/2026-10-29 Wo - Prädikat un so scheiß.md",
+    "WL/2026-11-04 Wz - Arbeitsschutzgesetze im Überblick.md",
+    "Raumgestaltung.md",
+    "(Events)/2026-11-06 Ma LK Bt.md",
+    "Eng/2026-11-04 Py - Listening and Direction vocab.md",
+    "TeKo-M/2026-09-22 Pd - Sägeblatt.md",
+    "TeKo-M/2026-08-20 Pd - Zeichnungsarten.md",
+    "TK-M/2026-11-03 Mor - Maschinelles Spanen.md",
+    "TK-M/2026-09-16 Hf - Toleranzen.jpg",
+    "TK-M/2026-09-29 Hf - Toleranzen.md",
+    "(Events)/2026-X-X TK-M LK Mor.md",
     "(Events)/2026-11-02 ANW LK Scheller.md",
+    "Eng/2026-10-27 Py - Mascots.md",
+    "Eng/2026-10-28 Py - Listening.md",
+    "(Events)/2026-11-03 PraxM LK Pd.md",
+    "ANW/2026-10-26 ZA-SI - Test Übung.md",
     "(Events)/2026-11-09 PraxE LK Gs.md",
     "(Events)/2026-11-05 TeKo-M LK Pd.md",
     "(Events)/2026-11-05 De HA Wo.md",
-    "(Events)/2026-11-04 WL HA Korrektur.md",
-    "(Events)/2026-11-03 TK-M LK Mor.md",
-    "(Events)/2026-11-03 PraxM LK Pd.md",
-    "(Events)/2026-11-03 Englisch LK Py.md",
-    "Raumgestaltung.md",
-    "Unbenannt.md",
-    "Ma/2026-10-30 Bt - Rechnen mit Größen.md",
-    "(Events)/2026-11-05 TK-E nachschreiben.md",
-    "(Events)/2026-10-26 ANW LK Scheller.md",
-    "(Events)/2026-10-28 PraxE LK Km.md",
-    "(Events)/2026-10-30 TK-Ma HA Mrkl.md",
-    "TK-E/2026-10-26 Gs - Widerstand.md",
-    "Ma/2026-10-30.md",
-    "TK-Ma/2026-10-30 Mrkl - Extraaufgaben Längenausdehnung.md",
-    "TK-Ma/2026-10-02 Mrkl - Längenausdehnung.md",
-    "TK-Ma/2026-08-27 Mrkl - Dichte von Stoffen.md",
-    "Sk/2026-10-30 Wz - 3. Strukturprinzipien der BRD.md",
-    "Sk/2026-09-16 Wz - Grundrechtsfälle.md",
-    "TK-E/2026-10-29 Mor - Leitwert.md",
-    "Ma/2026-10-02 Bt - Brüche Division und Multi.md",
-    "TK-M/2026-09-16 Hf - Toleranzen.jpg",
     "(Events)",
     "(Events)/2.09 TK-M Wz - Hefter wirtschaftslehre haben",
     "(Events)/04.09 Sk Wz - AH aufgaben",
