@@ -6,7 +6,7 @@
 **Enger Zahnspann**; hartes material 
 Viele zähne werden benutzt für hartes material, da ein großer spanraum dafür sorgt, dass sich hartes material dort verkeilt und somit hitze erzeugt und gar den schnitt ungenau macht 
 
-**HArtes Mateiral**: guss, stahl... 
+**Hartes Mateiral**: guss, stahl... 
 **Mittel**: Eisen, Kupfer 
 **Weich**: holz, plastik 
 

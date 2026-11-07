@@ -10,3 +10,9 @@
 [Fertigungstechnik](2026-08-28%20Mor%20-%20Fertigungstechnik)
 **Sägewinkel**: AB. 22.09.2026 und noch 2-3 mehr **AB.** von Pd und Mor
 
+
+
+
+verschoben am **03.11** auf $X$  
+
+
