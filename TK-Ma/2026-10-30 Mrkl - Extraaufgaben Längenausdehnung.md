@@ -6,16 +6,18 @@
 $\alpha_1 = 0.000012\frac{1}{°C}, l_1=30m, \Delta t=40°C$ 
 
 **Ges.:** 
-$\Delta l=$ ?
+$\Delta l= \alpha_1 * l_1 * \Delta t=$ ?
 
 **Lsg.:** 
-$\Delta l=0.000012\frac{1}{°C} * 30m*40°C = \underline{\underline{0.014m}}$ 
+**a)** 
+$\Delta l=0.000012\frac{1}{°C} * 30m*40°C = 0.014m$ 
+$30m + 0.014m = \underline{\underline{30.014m}}$ 
 
 **b)**
-Nein, eine Fuge von 12mm an jeder Seite, reicht nicht aus. 
-Angenommen $s_1 = Schiene_1$ und $s_2 = Schiene_2$ sind aufeinanderfolgend und $f_1= Fuge_1$ ist zwischen diesen $s_1$ und $s_2$. 
+Nein, eine Fuge von $12mm$ zwischen den Schienen, reicht nicht aus. 
+Angenommen $Schiene_1$ und $Schiene_2$ sind aufeinanderfolgend und die Fuge ist zwischen diesen beiden.
 
-Wenn sich sowohl $s_1$ als auch $s_2$ jeweils zur Hälfte, also $\frac{0.014m}{2}$ in die Fuge $f_1$ ausdehnen, beträgt die Strecke, die sich in die Fuge $f_1$ ausdehnt $\frac{0.014m}{\cancel{2}}*\cancel{2}=0.014m$ und da $12mm < (0.014m*1000) = 12mm < 14mm$ reichen $12mm$ an Fuge zwischen den Schienen nicht aus. 
+Wenn sich sowohl $Schiene_1$ als auch $Schiene_2$ jeweils zur Hälfte, also $\frac{14mm}{2}$ in die Fuge ausdehnen, beträgt die Strecke, die sich in die Fuge ausdehnt $\frac{14mm}{\cancel{2}}*\cancel{2}=14mm$ und da $12mm < 14mm$, reichen $12mm$ an Fuge zwischen den Schienen nicht aus. 
 
 
 
@@ -42,7 +44,7 @@ $\Delta l = 0.000023\frac{1}{°C}*2m*60°C = \underline{\underline{0.00276m}}$
 ### Aufgabe 3 
 
 **Geg.:** 
-$\Delta l = 0.0015, \alpha_1 = 0.000012\frac{1}{°C}, l_1=2.5m,$
+$\Delta l = 0.0015m, \alpha_1 = 0.000012\frac{1}{°C}, l_1=2.5m,$
 
 **Ges.:** 
 $\Delta l = \alpha_1 *l_1 *\Delta t$ | $:l_1$
@@ -74,7 +76,7 @@ $\alpha_1 = \frac{\Delta l}{l_1*\Delta t} =$ ?
 **Lsg.:** 
 $a_1 = \frac{0.0046m}{2m *100°C}=\underline{\underline{0.000023\frac{1}{°C}}}$ 
 
-Es handelt sich beim Werkstoff um Aluminium. 
+Es handelt sich bei dem Werkstoff um Aluminium. 
 
 **Prüf.:** 
 $\Delta l = 0.000023\frac{1}{°C}*2m*100°C = \underline{\underline{0.0046m}}$  
@@ -84,14 +86,44 @@ $\Delta l = 0.000023\frac{1}{°C}*2m*100°C = \underline{\underline{0.0046m}}$
 ### Aufgabe 5
 
 **Geg.:** 
-$\alpha_1 = 0.000012\frac{1}{°C}, l_1 = 0.04m$ 
+$\alpha_1 = 0.000012\frac{1}{°C}, d_1 = 40mm, \Delta d = 40.04mm$ 
 
 **Ges.:** 
+**a)** Nötiger Innendurchmesser des Lagers um auf die Stahlwelle zu passen.
+**b)** Nötige Temperatur um das Lager passend zu machen. 
+$\Delta d = \alpha_1 *d_1 *\Delta t$ 
+... 
+$\Delta t = \frac{\Delta d}{d_1 * \alpha_1} =$ ? 
+
+
+**Lsg.:** 
+**a)** Der Innendurchmesser des Lagers muss mindestens um $40.04mm - 40mm = 0.04mm$ wachsen und $40.04mm$ betragen um auf die Stahlwelle mit einem Durchmesser von $40.03mm$ zu passen. 
+
+**b)** 
+$\Delta t = \frac{0.04mm}{40mm * 0.000012\frac{1}{°C}} = \underline{\underline{83.\overline3°C}}$  
+
+**c)** 
+Da sich das Lager beim Abkühlen wieder um $0.04mm$ zusammenzieht und somit enormen Druck auf die Welle ausübt. 
+
+
+**Prüf.:** 
+$\Delta d = 0.000012\frac{1}{°C} *40mm *83.\overline3°C =\underline{\underline{0.04mm}}$ 
 
 
 
+### Zusatz
 
+Den Fehler den ich hatte, als ich im Unterricht die Gleichung umstellen wollte, entstand da raus, dass ich vergessen habe den Kehrwert zu bilden. 
 
+Meine Vorgehen war allerdings richtig und so gedacht: 
 
+$\Delta l = \alpha_1 * l_1 *\Delta t$ | $:l_1$ 
+$\Leftrightarrow \frac{\Delta l}{l_1} = \alpha_1 *\Delta t$ | $: \Delta t$
 
+$\Leftrightarrow \frac{\frac{\Delta l}{l_1}}{\Delta t} = \frac{\Delta l}{l_1} : \Delta t = \frac{\Delta l}{l_1} : \frac{\Delta t}{1} = \frac{\Delta l}{l_1} * \frac{1}{\Delta t} = \frac{\Delta l}{l_1*\Delta t} = \alpha_1$ 
+$\alpha_1=\underline{\underline{\frac{\Delta l}{l_1*\Delta t}}}$
+
+nicht so: 
+
+$\xRightarrow{Fehler} \frac{\frac{\Delta l}{l_1}}{\Delta t} = \frac{\Delta l}{l_1} : \Delta t = \frac{\Delta l}{l_1} : \frac{\Delta t}{1} = \frac{\Delta l}{l_1} * \frac{\Delta t}{1} = \frac{\Delta l*\Delta t}{l_1} =$ ? 
 
